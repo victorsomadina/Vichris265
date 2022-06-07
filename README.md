@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vichris265
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on JavaScript and SQL
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently SQL, POWER BI, python
+- 💞️ I’m looking to collaborate on python and SQL
 - 📫 How to reach me christopher.somadina.1999@gmail.com
 
 <!---
